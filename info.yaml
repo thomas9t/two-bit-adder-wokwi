@@ -1,6 +1,7 @@
 # Tiny Tapeout project information
 project:
-  title:        "421375735719639041"      # Project title
+  wokwi_id:     421375735719639041 
+  title:        "two-bit-adder"      # Project title
   author:       "Anthony"      # Your name
   discord:      "NA"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Takes some bits and adds them"      # One line description of what your project does
